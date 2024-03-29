@@ -1,3 +1,7 @@
+<!--
+Sobre este README no GitHub: https://docs.github.com/pt/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
+-->
+
 # Olá, eu sou o Matheus! 😄👋
 
 Estou nos semestres finais de **Engenharia da Computação** e atualmente trabalho como Estagiário de **Infraestrutura de TI**.
@@ -33,8 +37,6 @@ No momento, estou estudando para transicionar da área do suporte/infra para o *
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=oMatheusBarroso&bg_color=222222&border_color=E94D5F&title_color=E94D5F&text_color=FFF)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=oMatheusBarroso&theme=bear&background=222222&border=E94D5F&dates=FFF)](https://git.io/streak-stats)
-
-
 
 ## Minhas Contribuições
 
