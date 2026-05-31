@@ -4,7 +4,7 @@ Sobre este README no GitHub: https://docs.github.com/pt/account-and-profile/sett
 
 # Olá, eu sou o Matheus! 😄👋
 
-Sou **Engenheiro da Computação** formado e atualmente trabalho como **Técnico de Monitoramento & Suporte/Infra de TI**.
+Sou **Engenheiro da Computação** formado e atualmente trabalho como **Técnico de Monitoramento & Suporte de TI**.
 
 No momento, estou estudando para transicionar da área do suporte/infra para o **desenvolvimento**, aperfeiçoando mais meus conhecimentos nessa área.
 
